@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+}
+
+/* 
+Cores
+13293D
+006494
+247ba0
+1b98e0
+e8f1f2
+*/
+
+body {
+    background-color: #13293D;
+    color: #e8f1f2;
+}
+
+a{
+    text-decoration: none;
+    color: #1b98e0;
+    transition: .5s;
+}
+
+a:hover {
+    color: #e8f1f2;
+}
+
